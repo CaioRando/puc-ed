@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729100958 source:c:\users\23010691\documents\asdasdas\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1729100985 c:\users\23010691\documents\asdasdas\arvorebinaria\arvore.h
+
